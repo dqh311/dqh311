@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 yo  
-i code in c++, python and html. building desktop apps, random tools, and kinda into ai automation rn
+i code in cpp, python, html and yeah its 2026 so im kinda into vibe coding
 
 ### stuff i use
 ![](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
@@ -15,13 +15,14 @@ i code in c++, python and html. building desktop apps, random tools, and kinda i
 ![](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/Gemini-8E75C4?style=flat&logo=googlegemini&logoColor=white)
 
-yea i let ai write a lot of it, so what
+
+ mostly vibe 
 
 ### stuff i made
 
 #### desktop & tools
-- **[dynamic-island-for-windows](https://github.com/jamebon123/dynamic-island-for-windows)** - dynamic island for windows (c++)
-- **[roblox-account-generator](https://github.com/dqh311/roblox-account-generator)** - account generator for roblox (python)
+- **[dynamic-island-for-windows](https://github.com/jamebon123/dynamic-island-for-windows)** - dynamic island for windows ( c++ ; skidded )
+- **[roblox-account-generator](https://github.com/dqh311/roblox-account-generator)** - account generator for roblox ( python )
 
 ### faq
-- **does it work?** yeah
+- **does it work?** i guess yeah? 
